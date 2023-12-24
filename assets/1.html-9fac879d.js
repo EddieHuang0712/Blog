@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5e53a5b1","path":"/blogs/suibi/2023/1.html","title":"不知道要说什么","lang":"en-US","frontmatter":{"title":"不知道要说什么","date":"2023/9/7","categories":["随笔"],"tags":["杂谈"]},"headers":[],"git":{},"filePathRelative":"blogs/随笔/2023/1.md"}');export{t as data};

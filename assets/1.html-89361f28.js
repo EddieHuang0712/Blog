@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as o}from"./app-ca4cd4ff.js";const r={},s=e("h1",{id:"随便说点",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#随便说点","aria-hidden":"true"},"#"),o(" 随便说点")],-1),_=[s];function n(d,i){return a(),c("div",null,_)}const l=t(r,[["render",n],["__file","1.html.vue"]]);export{l as default};
